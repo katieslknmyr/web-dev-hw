@@ -1,0 +1,9 @@
+Katie Schlichenmayer
+
+The Internet is a global network of networks, while the Web is a collection of information which is accessed via the internet. 
+
+The Internet moves data from one place to another so we can share and browse. 
+
+A directory is another name for a folder. Its relationship to files is that file systems use directories to organize files within a storage device.
+
+When using VCS, everybody on that tema is able to work freely on any file at any time. But later one the VCS will allow you to merge all the changes into a common version. 
