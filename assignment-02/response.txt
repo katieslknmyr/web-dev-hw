@@ -1,0 +1,9 @@
+Katie Schlichenmayer
+
+1. Data travels across the internet in packets. Each packet will then move through the network in a series of hops.
+
+2. An IP address is an address assigned to any computer to identify it on a network. While a DNS address is a Domain Name Service which is used to convert alphabetic references into a servers IP address.
+
+3. Cookies are text files with small pieces of data that are used to identify your computer as you use a computer network.
+
+4. The three basic parts of the URL are, protocol, domain name, and path. 
