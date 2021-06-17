@@ -4,15 +4,15 @@ h1 {
 
 .square {
   width: 50%;
-  height: 200px;
+  height: 100px;
 }
 
 #blue {
-  background-color: #8FBOA9;
+  background-color: #8FB0A9
 }
 
 #yellow {
-  background-color: #FBD266
+  background-color: #FBD266;
 }
 
 #burntorange {
