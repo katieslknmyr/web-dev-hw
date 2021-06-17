@@ -4,16 +4,17 @@ h1 {
 
 .square {
   width: 50%;
+  height: 200px;
 }
 
-#green {
-  background-color: #07DE522;
+#blue {
+  background-color: #8FBOA9;
 }
 
 #yellow {
-  background-color: #FFFF00
+  background-color: #FBD266
 }
 
-#orange {
-  background-color: #FBE608;
+#burntorange {
+  background-color: #D76735;
 }
