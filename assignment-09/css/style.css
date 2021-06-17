@@ -5,3 +5,15 @@ h1 {
 .square {
   width: 50%;
 }
+
+#green {
+  background-color: #07DE522;
+}
+
+#yellow {
+  background-color: #FFFF00
+}
+
+#orange {
+  background-color: #FBE608;
+}
