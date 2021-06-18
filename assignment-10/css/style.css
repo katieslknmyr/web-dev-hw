@@ -6,7 +6,7 @@ body {
   color: black;
   padding: 5px;
   font-family: 'Oswald', sans-serif;
-  font-size: 4em
+  font-size: 2em
 }
 
 /* Paragraph Content */
@@ -16,7 +16,7 @@ body {
   padding: 5px;
 }
 p::first-letter {font-family: 'Staatliches', cursive;
-font-size: 6em;
+font-size: 3em;
 font-weight: 600;
 }
 
