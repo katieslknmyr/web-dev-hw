@@ -1,0 +1,16 @@
+/* Page-Wide */
+body {
+  background-color: lightgrey;
+  color: white;
+  padding: 5px;
+}
+
+/* Paragraph Content */
+.text {
+  background-color: #FFFFFF;
+  color: grey;
+  padding: 5px;
+}
+
+
+/* "Read More!" Link */
