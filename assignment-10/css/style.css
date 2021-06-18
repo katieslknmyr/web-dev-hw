@@ -1,8 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200&family=Staatliches&display=swap');
+
 /* Page-Wide */
 body {
   background-color: lightgrey;
-  color: white;
+  color: black;
   padding: 5px;
+  font-family: 'Oswald', sans-serif;
 }
 
 /* Paragraph Content */
@@ -11,6 +14,6 @@ body {
   color: grey;
   padding: 5px;
 }
-
+p::first-letter {font-family: 'Staatliches', cursive;}
 
 /* "Read More!" Link */
